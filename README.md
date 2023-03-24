@@ -1,5 +1,11 @@
 # Capstone
 
+Brook B andreas 
+ROb Rhea 
+Dijlukrishian Vijay 
+
+
+
 Networks are always under the threat of malicious intrusions. Deep learning models are used to help identify and mitigate intrusions before damage can occur. Various types of deep learning models have been researched, built, and tested with the goal of improving intrusion detection and efficiencies. In this study, a two-phase deep learning model technique called a Hybrid Intrusion Detection System (HIDS) is proposed that uses Bidirectional Long Short-Term Memory Recurrent Neural Network (BLSTM-RNN). The model analyzes both flow-based network data and packet-based data in a two-step process. The model is tested using the UNSW-NB15 data set and performance is assessed using accuracy, precision, recall, and F1-measure. The flow-based binary classification generated an accuracy of 46%, precision of 58%, recall of 46% and F1-measure of 44%. The packet-based classification generated an accuracy of 76%, precision of 76%, recall of 72% and F1-measure of 73%. The proposed work showed that the models were able to achieve an average accuracy of 61% for the hybrid model. The results of the analysis between the deep learning models suggests that the use of deep learning in NIDS would be a suitable solution to improving detection accuracy on unclean data.
 
 1. Business Problem
